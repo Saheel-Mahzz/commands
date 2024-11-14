@@ -12,7 +12,7 @@ const Home = () => {
       <section className="task-section">
         <div className="container">
           <div className="task-box">
-            <h1>Task Management System</h1>
+            <h1>This is Task Management System</h1>
             <div className="input-box">
               <label> Title:</label>
               <input
